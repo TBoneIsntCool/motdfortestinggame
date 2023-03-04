@@ -1,1 +1,1 @@
-Welcome to the first offical test of TBone's Testing World. This game is meant to be a fun place to hang out, whilst I, TBone, learn how to make scripts!
+Welcome to the first offical public test of TBone's Testing World. There are a few bugs, including the health tablet. Other than that, go and slash away at people!
